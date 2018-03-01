@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var chocolateBars = [
   'snickers',
   'hundred grand',
@@ -51,3 +52,18 @@ function removeElementFromEndOfArray(array) {
   var sliced = array.slice(0,array.length - 1)
   return sliced
 }
+=======
+var grilledCheeseIngredients = [
+  'bread',
+  'mild cheese',
+  'sharp cheese',
+  'butter',
+  'tomato',
+  'garlic'
+]
+  
+  
+  
+  
+  
+>>>>>>> 1dc64a0138b953bb3e3a3a83f135861a1b637d55
